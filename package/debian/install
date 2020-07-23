@@ -1,6 +1,6 @@
 gui/authpass.desktop usr/share/applications
 gui/authpass.png usr/share/icons/hicolor/48x48/apps
 authpass usr/lib/authpass
-lib/*.so usr/lib/authpass
+lib usr/lib/authpass/lib
 data usr/lib/authpass
 

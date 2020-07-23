@@ -1,3 +1,33 @@
+authpass (1.7.1+1324-1ubuntu3) focal; urgency=medium
+
+  * Update deb package.
+
+ -- Herbert Poul <herbert.deb@authpass.app>  Thu, 23 Jul 2020 19:28:10 +0000
+
+authpass (1.7.1+1324-1ubuntu2) focal; urgency=medium
+
+  * Update deb package.
+
+ -- Herbert Poul <herbert.deb@authpass.app>  Thu, 23 Jul 2020 19:16:16 +0000
+
+authpass (1.7.1+1324-1ubuntu1) focal; urgency=medium
+
+  * Update deb package.
+
+ -- Herbert Poul <herbert.deb@authpass.app>  Thu, 23 Jul 2020 19:12:53 +0000
+
+authpass (1.7.1+1324-1ubuntu1) focal; urgency=medium
+
+  * Update deb package.
+
+ -- Herbert Poul <herbert.deb@authpass.app>  Thu, 23 Jul 2020 19:03:07 +0000
+
+authpass (1.7.1+1324-1ubuntu1) bionic; urgency=medium
+
+  * fix build
+
+ -- Herbert Poul <herbert.deb@authpass.app>  Thu, 23 Jul 2020 18:47:54 +0000
+
 authpass (1.7.1+1324) bionic; urgency=medium
 
   * Update deb package.
