@@ -1,0 +1,5 @@
+authpass (1.7.1-3ubuntu7) bionic; urgency=medium
+
+  * Initial release.
+
+ -- Herbert Poul <herbert.deb@codeux.design>  Thu, 23 Jul 2020 11:36:11 +0000
