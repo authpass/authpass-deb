@@ -17,3 +17,6 @@ package/debian/authpass
 package/debian/authpass.substvars
 package/debian/debhelper-build-stamp
 package/debian/files
+/.blackbox/pubring.gpg~
+/.blackbox/pubring.kbx~
+/.blackbox/secring.gpg
