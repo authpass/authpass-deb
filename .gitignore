@@ -1,5 +1,19 @@
 /*.tar.gz
+/*.tar.xz
 /*.dsc
 *.swp
 /*.build
+/*.buildinfo
+/*.changes
+/*.ddeb
+/*.deb
 
+/package/*
+!/package/debian
+!/package/debian/*
+package/debian/authpass
+.debhelper
+
+package/debian/authpass.substvars
+package/debian/debhelper-build-stamp
+package/debian/files
