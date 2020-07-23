@@ -21,3 +21,4 @@ package/debian/files
 /.blackbox/pubring.kbx~
 /.blackbox/secring.gpg
 /secrets/signing.public.key
+/secrets/signing.secret.key

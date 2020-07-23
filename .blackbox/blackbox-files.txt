@@ -1,1 +1,2 @@
 secrets/signing.public.key
+secrets/signing.secret.key
