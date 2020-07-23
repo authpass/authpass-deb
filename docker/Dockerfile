@@ -10,6 +10,7 @@ RUN set -x \
         dh-autoreconf \
         dh-make \
 	libdistro-info-perl \
+	dput \
 	curl \
 	vim \
 	less

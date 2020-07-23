@@ -2,7 +2,7 @@ authpass (1.7.1+1324) bionic; urgency=medium
 
   * Update deb package.
 
- -- Herbert Poul <herbert.deb@codeux.design>  Thu, 23 Jul 2020 12:09:43 +0000
+ -- Herbert Poul <herbert.deb@authpass.app>  Thu, 23 Jul 2020 12:09:43 +0000
 
 authpass (1.7.1-3ubuntu7) bionic; urgency=medium
 

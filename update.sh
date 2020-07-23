@@ -23,3 +23,7 @@ fi
 pushd package
 
 dch -M -v ${debversion} -D bionic "Update deb package."
+
+debuild -S
+
+dput ppa:codeux.design/authpass "../authpass_${debversion}"
