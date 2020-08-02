@@ -1,0 +1,18 @@
+{
+  "stats": [
+    {
+      "fetched": "2020-08-02T10:42:09.376603Z",
+      "totalDownloads": 52,
+      "downloadCount": {
+        "authpass 1.7.1+1324-1ubuntu5 in bionic amd64": 6,
+        "authpass 1.7.1+1324-1ubuntu4 in focal amd64": 16,
+        "authpass 1.7.1+1324-1ubuntu3 in focal amd64": 1,
+        "authpass 1.7.1+1324-1ubuntu1 in bionic amd64": 1,
+        "authpass 1.6.3-3ubuntu7 in focal amd64": 19,
+        "authpass 1.6.3-3ubuntu5 in bionic amd64": 7,
+        "authpass 1.6.3-3ubuntu4 in bionic amd64": 1,
+        "authpass 1.6.3-3ubuntu3 in bionic amd64": 1
+      }
+    }
+  ]
+}
