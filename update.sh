@@ -2,8 +2,8 @@
 
 set -xeu
 
-#dist=bionic
-dist=focal
+dist=bionic
+#dist=focal
 
 if ! test -d package ; then
   echo "Launched from wrong directory."
