@@ -23,3 +23,4 @@ package/debian/files
 /.blackbox/secring.gpg
 /secrets/signing.public.key
 /secrets/signing.secret.key
+/secrets/artifact_token.txt
