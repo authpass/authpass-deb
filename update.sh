@@ -1,14 +1,27 @@
 #!/bin/bash
 
+# Execute this using:
+# docker-compose run bionic ./update.sh bionic|focal
+
 set -xeu
 
-dist=bionic
+dist=${1:-bionic}
 #dist=focal
+
+echo "Updating $dist ..."
 
 if ! test -d package ; then
   echo "Launched from wrong directory."
   exit 1
 fi
+
+if ! test -f secrets/signing.secret.key ; then
+  echo 'run blackbox_postdeploy'
+  exit 1
+fi
+
+gpg --import < secrets/signing.secret.key
+gpg --import < secrets/signing.public.key
 
 artifacts='https://data.authpass.app/data/artifacts'
 
@@ -25,6 +38,9 @@ else
 fi
 
 pushd package
+
+git clean -X -f .
+tar xzf "../${origarchive}" --strip-components=1
 
 if grep -q -F "${debversion}" debian/changelog ; then
   echo "Version ${debversion} already exists. creating new one."

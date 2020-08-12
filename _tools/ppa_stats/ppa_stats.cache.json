@@ -13,6 +13,76 @@
         "authpass 1.6.3-3ubuntu4 in bionic amd64": 1,
         "authpass 1.6.3-3ubuntu3 in bionic amd64": 1
       }
+    },
+    {
+      "fetched": "2020-08-12T12:31:54.930562Z",
+      "totalDownloads": 63,
+      "downloadCount": {
+        "authpass 1.7.1+1324-1ubuntu5 in bionic amd64": 10,
+        "authpass 1.7.1+1324-1ubuntu4 in focal amd64": 23,
+        "authpass 1.7.1+1324-1ubuntu3 in focal amd64": 1,
+        "authpass 1.7.1+1324-1ubuntu1 in bionic amd64": 1,
+        "authpass 1.6.3-3ubuntu7 in focal amd64": 19,
+        "authpass 1.6.3-3ubuntu5 in bionic amd64": 7,
+        "authpass 1.6.3-3ubuntu4 in bionic amd64": 1,
+        "authpass 1.6.3-3ubuntu3 in bionic amd64": 1
+      }
+    },
+    {
+      "fetched": "2020-08-12T13:18:45.181189Z",
+      "totalDownloads": 63,
+      "downloadCount": {
+        "authpass 1.7.1+1324-1ubuntu5 in bionic amd64": 10,
+        "authpass 1.7.1+1324-1ubuntu4 in focal amd64": 23,
+        "authpass 1.7.1+1324-1ubuntu3 in focal amd64": 1,
+        "authpass 1.7.1+1324-1ubuntu1 in bionic amd64": 1,
+        "authpass 1.6.3-3ubuntu7 in focal amd64": 19,
+        "authpass 1.6.3-3ubuntu5 in bionic amd64": 7,
+        "authpass 1.6.3-3ubuntu4 in bionic amd64": 1,
+        "authpass 1.6.3-3ubuntu3 in bionic amd64": 1
+      }
+    },
+    {
+      "fetched": "2020-08-12T13:18:57.351961Z",
+      "totalDownloads": 63,
+      "downloadCount": {
+        "authpass 1.7.1+1324-1ubuntu5 in bionic amd64": 10,
+        "authpass 1.7.1+1324-1ubuntu4 in focal amd64": 23,
+        "authpass 1.7.1+1324-1ubuntu3 in focal amd64": 1,
+        "authpass 1.7.1+1324-1ubuntu1 in bionic amd64": 1,
+        "authpass 1.6.3-3ubuntu7 in focal amd64": 19,
+        "authpass 1.6.3-3ubuntu5 in bionic amd64": 7,
+        "authpass 1.6.3-3ubuntu4 in bionic amd64": 1,
+        "authpass 1.6.3-3ubuntu3 in bionic amd64": 1
+      }
+    },
+    {
+      "fetched": "2020-08-12T13:20:38.572900Z",
+      "totalDownloads": 63,
+      "downloadCount": {
+        "authpass 1.7.1+1324-1ubuntu5 in bionic amd64": 10,
+        "authpass 1.7.1+1324-1ubuntu4 in focal amd64": 23,
+        "authpass 1.7.1+1324-1ubuntu3 in focal amd64": 1,
+        "authpass 1.7.1+1324-1ubuntu1 in bionic amd64": 1,
+        "authpass 1.6.3-3ubuntu7 in focal amd64": 19,
+        "authpass 1.6.3-3ubuntu5 in bionic amd64": 7,
+        "authpass 1.6.3-3ubuntu4 in bionic amd64": 1,
+        "authpass 1.6.3-3ubuntu3 in bionic amd64": 1
+      }
+    },
+    {
+      "fetched": "2020-08-12T13:21:40.305933Z",
+      "totalDownloads": 63,
+      "downloadCount": {
+        "authpass 1.7.1+1324-1ubuntu5 in bionic amd64": 10,
+        "authpass 1.7.1+1324-1ubuntu4 in focal amd64": 23,
+        "authpass 1.7.1+1324-1ubuntu3 in focal amd64": 1,
+        "authpass 1.7.1+1324-1ubuntu1 in bionic amd64": 1,
+        "authpass 1.6.3-3ubuntu7 in focal amd64": 19,
+        "authpass 1.6.3-3ubuntu5 in bionic amd64": 7,
+        "authpass 1.6.3-3ubuntu4 in bionic amd64": 1,
+        "authpass 1.6.3-3ubuntu3 in bionic amd64": 1
+      }
     }
   ]
 }

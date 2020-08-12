@@ -41,6 +41,20 @@ Future<void> main(List<String> arguments) async {
     ]);
     final encoder = JsonEncoder.withIndent('  ');
     await cacheFile.writeAsString(encoder.convert(toSave.toJson()));
+
+    final token = await File('../../secrets/artifact_token.txt').readAsString();
+    final response = await post(
+      'https://data.authpass.app/data/artifact.push',
+      body: {
+        'token': token.trim(),
+        'metrics': json.encode({
+          'ppa': toSave.stats.last.toJson(),
+          'stats': null,
+        }),
+      },
+    );
+    print(response.statusCode);
+    print(response.body);
   } finally {
     api.dispose();
   }
